@@ -1,0 +1,21 @@
+Babel
+
+1) npm init
+2) npm install --save-dev webpack webpack-dev-server
+3) npm install --save react react-dom react-router-dom
+4) npm install --save-dev babel-loader babel-core babel-present-react babel-present-env
+5) npm install --save-dev css-loader style-loader
+6) npm install --save-dev postcss-loader
+7) npm install --save-dev autoprefixer
+8) npm install --save-dev url-loader
+9) npm install --save-dev file-loader
+10) npm start
+11) npm install --save-dev babel-plugin-syntaxdynamic-import
+12) npm start
+13) npm install --save-dev babel-present-stage-2
+14) npm start
+15) npm install --save-dev html-webpack-plugin
+16) npm run build
+17) npm install --save-dev rimraf
+18) npm run build
+ 
